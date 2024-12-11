@@ -7,7 +7,7 @@ import json
 from openai import OpenAI
 
 client = OpenAI(
-  api_key="2b1b281a79b652b8036eb4b0896cf8ce936caa934e8ca350b5135de602288c78",
+  api_key="your_togetherai_key",
   base_url="https://api.together.xyz/v1",
 )
 
